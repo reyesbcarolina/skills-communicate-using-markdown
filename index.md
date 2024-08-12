@@ -4,22 +4,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Se probaron los cambios que producen las distintas cantidades de '#'
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
